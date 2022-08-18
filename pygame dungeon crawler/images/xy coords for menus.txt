@@ -1,0 +1,7 @@
+enemy tab: 20, 10
+
+option tab: 30 170
+
+info log tab: 56 35
+
+display tab 170 10
